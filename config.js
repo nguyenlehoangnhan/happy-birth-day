@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: ' Hee loo ! 💗',
     introDesc: `Chúc cậu có một ngày sinh nhật vui vẻ bên người thân và bạn bè!!!`,
     btnIntro: 'Tớ cảm ơn 💗',
-    title: 'Cậu chơi game với tớ nhé ^^ ',
+    title: 'Noel này cậu chơi game với tớ nhé ^^ ',
     desc: 'Happy Birthday',
     btnYes: 'Okii 🥰',
     btnNo: 'Không , Tớ ghéc cậu lắm',
